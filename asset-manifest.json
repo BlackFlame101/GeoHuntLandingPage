@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/GeoHuntLandingPage/static/css/main.564b127d.css",
+    "main.js": "/GeoHuntLandingPage/static/js/main.018472d2.js",
+    "static/media/pexels-olly-774909.jpg": "/GeoHuntLandingPage/static/media/pexels-olly-774909.97ce8c0b045ea8c6aa22.jpg",
+    "static/media/pexels-albarracin-31093900.jpg": "/GeoHuntLandingPage/static/media/pexels-albarracin-31093900.6ed71468c3c294ca7e9a.jpg",
+    "static/media/pexels-olly-733872.jpg": "/GeoHuntLandingPage/static/media/pexels-olly-733872.69ef40d02a2be6b96bfb.jpg",
+    "static/media/Sale.jpg": "/GeoHuntLandingPage/static/media/Sale.60164c27b4f0399e103b.jpg",
+    "static/media/kids-reading-scavenger-hunt-map.png": "/GeoHuntLandingPage/static/media/kids-reading-scavenger-hunt-map.4b48deb365d783f1e525.png",
+    "static/media/BrightLogo.png": "/GeoHuntLandingPage/static/media/BrightLogo.94f257726581eceb51ae.png",
+    "static/media/LetterLogo.png": "/GeoHuntLandingPage/static/media/LetterLogo.99cead73b5168983390c.png",
+    "static/media/Tanger.jpg": "/GeoHuntLandingPage/static/media/Tanger.29fb6ae3b585237d3157.jpg",
+    "static/media/Marrakech.jpg": "/GeoHuntLandingPage/static/media/Marrakech.74e643a3904b9b5ed0d6.jpg",
+    "static/media/Rabat.jpg": "/GeoHuntLandingPage/static/media/Rabat.6efbe0ca1ccd2b9d080f.jpg",
+    "static/media/CasaBlanca.jpg": "/GeoHuntLandingPage/static/media/CasaBlanca.4e1d5f102a20cd27351c.jpg",
+    "static/media/apple-app-store-svgrepo-com.svg": "/GeoHuntLandingPage/static/media/apple-app-store-svgrepo-com.4a18d7cffd955331a44a0560c2119672.svg",
+    "index.html": "/GeoHuntLandingPage/index.html",
+    "main.564b127d.css.map": "/GeoHuntLandingPage/static/css/main.564b127d.css.map",
+    "main.018472d2.js.map": "/GeoHuntLandingPage/static/js/main.018472d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.564b127d.css",
+    "static/js/main.018472d2.js"
+  ]
+}
